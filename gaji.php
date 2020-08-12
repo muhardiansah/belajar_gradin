@@ -47,6 +47,7 @@
 	Potongan : $potongan <br>
 	Total Gaji : $total ";
 	echo "belajar git nih";
+	echo "apa itu git ya";
 	//yang bikin saya bingung, variable potongan tapi rumusnya malah nambahun gaji
 	?>
 
